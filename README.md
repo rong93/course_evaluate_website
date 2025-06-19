@@ -21,14 +21,18 @@
 | 開發工具 | Visual Studio Code、XAMPP |
 
 ---
-## 📷 專案截圖（可選）
+## 📷 畫面展示
 
-> 建議加入以下畫面截圖：
-> - 首頁畫面
-> - 課程評價表單
-> - 評價統計圖
-> - 登入與註冊畫面
-
+- 課堂選擇畫面<br>
+<img src="image/1.png" width="500"><br><br>
+- 課堂評價資訊<br>
+<img src="image/2.png" width="500"><br><br>
+- 留言畫面，可以編輯或是刪除留言<br>
+<img src="image/3.png" width="500"><br><br>
+- 課堂評價畫面<br>
+<img src="image/4.png" width="500"><br><br>
+- 登入、登出<br>
+<img src="image/6.png" width="500"><br><br>
 ---
 
 
